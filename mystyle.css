@@ -1,0 +1,124 @@
+header{
+    position: absolute;
+    margin: 0;
+    top:10px;
+    left:0px;
+    height:150px;
+    right:0;
+    background-color: tomato;
+	padding-left:30px;
+    font-size:1.5em;
+    visibility:visible;
+}
+nav{
+    position: absolute;
+    top:165px;
+    left:0;
+    width:210px;
+    bottom:0;
+    background-color: rgb(124, 81, 81); 
+	padding-left:15px;
+	color:#ffffff;
+}
+content{
+    position:absolute;
+    top:165px;
+    left:230px;
+    right:0;
+    bottom:0;
+    background-color: rgb(168, 207, 75);
+	padding-left: 20px;
+}
+.options{
+    width:150px;
+    height:50px;
+    font-size: 20px;
+	margin-right:10px;
+}
+
+.tables{
+	width:150px;
+    height:30px;
+    font-size: 20px;
+	margin-right:10px;
+}
+#correct_img,#wrong_img{
+    position: absolute;
+    height:150px;
+    width:150px;
+    left:240px;
+	visibility:hidden;
+}
+
+#correct_rimg,#wrong_rimg{
+    position: absolute;
+	top:200px;
+    height:150px;
+    width:150px;
+    left:300px;
+	visibility:hidden;
+}
+
+
+#playerName, #score{
+	color:#ffffff;
+	font-weight:bold;
+}
+
+textarea{
+    font-size: 1.5em;
+    -webkit-box-shadow: 5px 5px 15px rgba(0,0,0,0.4);
+    
+}
+
+table,tr{
+    border:1px solid #23c923;
+    /*background-color: #91b891;*/
+    
+    
+    text-align: center;
+    -webkit-box-shadow: 5px 5px 15px rgba(0,0,0,0.4);
+}
+
+td{
+    /*column-width:300px;*/
+}
+select,option{
+    font-size: 20px;
+    margin: 5px;
+    width:300px;
+}
+
+/* tr:nth-last-child(1){
+    background-color: #d8d52f;
+} */
+
+input[type=text]{
+   /* margin: 5px;
+    
+    
+    
+	margin-right:10px;*/
+}
+
+.error{
+    color:#ff0000;
+}
+
+input[type=submit]{
+    width:150px;
+    height:30px;
+    font-size: 20px;
+	margin-right:10px;
+}
+
+#question-table{
+	border:2px;
+	width:100px;
+	height:100px;
+	font-size:24px;
+}
+
+#response,#correct_Answer{
+	font-size:24px;
+}

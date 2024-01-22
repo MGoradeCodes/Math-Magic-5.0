@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+    <head>
+	    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-164010437-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-164010437-1');
+</script>
+
+       <title>Math Magic 4.0</title>
+        <link rel="stylesheet" href="mystyle.css" >
+    </head>
+    <body>
+	<audio id="correct">
+		<source src="sounds\correct.mp3" type="audio/mpeg">
+		Your browser does not support the audio element.
+	</audio>
+	<audio id="wrong">
+		<source src="sounds\wrong.mp3" type="audio/mpeg">
+		Your browser does not support the audio element.
+	</audio>
+	<audio id="allcorrect_manthan">
+		<source src="sounds\allcorrect_manthan.mp3" type="audio/mpeg">
+		Your browser does not support the audio element.
+	</audio>
+	<audio id="allcorrect_maithili">
+		<source src="sounds\allcorrect_maithili.mp3" type="audio/mpeg">
+		Your browser does not support the audio element.
+	</audio>
+        <header>
+            <h1>Math Magic</h1>
+        </header>
+        <nav>
+			<div class='welcome'>
+				<h1>Welcome</h1>
+				<h1 id="playerName"></h1><br>
+				</div>
+			<div class='test_score'>
+				<h1 id="test"></h1>
+				<h1>Your Score</h1>
+				<h1 id="score"></h1>
+			</div>
+			
+        </nav>
+        <content id="question">
+            <div id="questionArea">
+			<br><br>
+			</div>
+			<div id="optionArea">
+			
+			</div>
+			<br><br>
+            <div>
+				<img id="correct_img" src="images/correct.png">
+			</div>
+			<div>
+				<img id="wrong_img" src="images/Wrong.png">
+			</div>
+			
+			<div>
+				<img id="correct_rimg" src="images/correct.png">
+			</div>
+			<div>
+				<img id="wrong_rimg" src="images/Wrong.png">
+			</div>
+			
+            
+        </content>
+		 <script src="myscript.js"></script>
+		 <script src="questionBank.js"></script>
+		 <script src="CountryBank.js"></script>
+		 <script src="numbersInWords.js"></script>
+    </body>
+</html>

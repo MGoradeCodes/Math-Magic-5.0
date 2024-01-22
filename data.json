@@ -1,0 +1,338 @@
+[
+    {
+        "question": "What is pair of Bread ?",
+        "option1": "carrot",
+        "option2": "raddish",
+        "option3": "jam",
+        "option4": "guava",
+        "answer": "option3"
+    },
+    {
+        "question": "What is opposite of Man ?",
+        "option1": "Girl",
+        "option2": "Sister",
+        "option3": "Boy",
+        "option4": "Woman",
+        "answer": "option4"
+    },
+    {
+        "question": "What is opposite of Boy ?",
+        "option1": "Girl",
+        "option2": "Woman",
+        "option3": "Brother",
+        "option4": "Uncle",
+        "answer": "option1"
+    },
+    {
+        "answer": "option1",
+        "option1": "Small",
+        "option2": "Out",
+        "option3": "Cold",
+        "option4": "Low",
+        "question": "What is opposite of Big ?"
+    },
+    {
+        "answer": "option1",
+        "option1": "Expensive",
+        "option2": "Low",
+        "option3": "Dangerous",
+        "option4": "Cool",
+        "question": "What is opposite of Cheap ?"
+    },
+    {
+        "answer": "option1",
+        "option1": "Dirty",
+        "option2": "Old",
+        "option3": "Rough",
+        "option4": "Cool",
+        "question": "What is opposite of Clean ?"
+    },
+    {
+        "answer": "option1",
+        "option1": "Shallow",
+        "option2": "Boring",
+        "option3": "Dark",
+        "option4": "Outside",
+        "question": "What is opposite of Deep ?"
+    },
+    {
+        "answer": "option1",
+        "option1": "Up",
+        "option2": "Poor",
+        "option3": "Difficult",
+        "option4": "Rough",
+        "question": "What is opposite of Down ?"
+    },
+    {
+        "answer": "option1",
+        "option1": "Late",
+        "option2": "Shallow",
+        "option3": "Hard",
+        "option4": "Cold",
+        "question": "What is opposite of Early ?"
+    },
+    {
+        "answer": "option1",
+        "option1": "Difficult",
+        "option2": "Sad",
+        "option3": "Short",
+        "option4": "Left",
+        "question": "What is opposite of Easy ?"
+    },
+    {
+        "answer": "option1",
+        "option1": "Near",
+        "option2": "Wrong",
+        "option3": "Poor",
+        "option4": "Cool",
+        "question": "What is opposite of Far ?"
+    },
+    {
+        "answer": "option1",
+        "option1": "Slow",
+        "option2": "Dark",
+        "option3": "Expensive",
+        "option4": "Cold",
+        "question": "What is opposite of Fast ?"
+    },
+    {
+        "answer": "option1",
+        "option1": "Thin",
+        "option2": "Short",
+        "option3": "Rough",
+        "option4": "Boring",
+        "question": "What is opposite of Fat ?"
+    },
+    {
+        "answer": "option1",
+        "option1": "Empty",
+        "option2": "Rough",
+        "option3": "Cold",
+        "option4": "Thin",
+        "question": "What is opposite of Full ?"
+    },
+    {
+        "answer": "option1",
+        "option1": "Bad",
+        "option2": "Sad",
+        "option3": "Out",
+        "option4": "Outside",
+        "question": "What is opposite of Good ?"
+    },
+    {
+        "answer": "option1",
+        "option1": "Sad",
+        "option2": "Thin",
+        "option3": "Up",
+        "option4": "Cool",
+        "question": "What is opposite of Happy ?"
+    },
+    {
+        "answer": "option1",
+        "option1": "Light",
+        "option2": "Narrow",
+        "option3": "Few",
+        "option4": "Left",
+        "question": "What is opposite of Heavy ?"
+    },
+    {
+        "answer": "option1",
+        "option1": "There",
+        "option2": "Old",
+        "option3": "Old",
+        "option4": "Light",
+        "question": "What is opposite of Here ?"
+    },
+    {
+        "answer": "option1",
+        "option1": "Low",
+        "option2": "Boring",
+        "option3": "Soft",
+        "option4": "Cool",
+        "question": "What is opposite of High ?"
+    },
+    {
+        "answer": "option1",
+        "option1": "Cold",
+        "option2": "Narrow",
+        "option3": "Loose",
+        "option4": "Left",
+        "question": "What is opposite of Hot ?"
+    },
+    {
+        "answer": "option1",
+        "option1": "Out",
+        "option2": "Slow",
+        "option3": "Thin",
+        "option4": "Low",
+        "question": "What is opposite of In ?"
+    },
+    {
+        "answer": "option1",
+        "option1": "Outside",
+        "option2": "Weak",
+        "option3": "Sad",
+        "option4": "Married",
+        "question": "What is opposite of Inside ?"
+    },
+    {
+        "answer": "option1",
+        "option1": "Boring",
+        "option2": "Out",
+        "option3": "Dangerous",
+        "option4": "Dry",
+        "question": "What is opposite of Interesting ?"
+    },
+    {
+        "answer": "option1",
+        "option1": "Dark",
+        "option2": "Thin",
+        "option3": "Rough",
+        "option4": "Difficult",
+        "question": "What is opposite of Light ?"
+    },
+    {
+        "answer": "option1",
+        "option1": "Short",
+        "option2": "Up",
+        "option3": "Empty",
+        "option4": "Hard",
+        "question": "What is opposite of Long ?"
+    },
+    {
+        "answer": "option1",
+        "option1": "Soft",
+        "option2": "Wrong",
+        "option3": "Poor",
+        "option4": "Rough",
+        "question": "What is opposite of Loud ?"
+    },
+    {
+        "answer": "option1",
+        "option1": "Few",
+        "option2": "Loose",
+        "option3": "Bad",
+        "option4": "Dangerous",
+        "question": "What is opposite of Many ?"
+    },
+    {
+        "answer": "option1",
+        "option1": "Old",
+        "option2": "Dangerous",
+        "option3": "Up",
+        "option4": "Thin",
+        "question": "What is opposite of New ?"
+    },
+    {
+        "answer": "option1",
+        "option1": "Poor",
+        "option2": "Cold",
+        "option3": "Short",
+        "option4": "Left",
+        "question": "What is opposite of Rich ?"
+    },
+    {
+        "answer": "option1",
+        "option1": "Wrong",
+        "option2": "Rough",
+        "option3": "Short",
+        "option4": "Loose",
+        "question": "What is opposite of Right ?"
+    },
+    {
+        "answer": "option1",
+        "option1": "Dangerous",
+        "option2": "Hard",
+        "option3": "Near",
+        "option4": "Dirty",
+        "question": "What is opposite of Safe ?"
+    },
+    {
+        "answer": "option1",
+        "option1": "Married",
+        "option2": "Sad",
+        "option3": "Out",
+        "option4": "Small",
+        "question": "What is opposite of Single ?"
+    },
+    {
+        "answer": "option1",
+        "option1": "Rough",
+        "option2": "Out",
+        "option3": "Thin",
+        "option4": "Thin",
+        "question": "What is opposite of Smooth ?"
+    },
+    {
+        "answer": "option1",
+        "option1": "Hard",
+        "option2": "Short",
+        "option3": "Dangerous",
+        "option4": "Slow",
+        "question": "What is opposite of Soft ?"
+    },
+    {
+        "answer": "option1",
+        "option1": "Weak",
+        "option2": "Few",
+        "option3": "Expensive",
+        "option4": "Outside",
+        "question": "What is opposite of Strong ?"
+    },
+    {
+        "answer": "option1",
+        "option1": "Short",
+        "option2": "Difficult",
+        "option3": "Thin",
+        "option4": "Soft",
+        "question": "What is opposite of Tall ?"
+    },
+    {
+        "answer": "option1",
+        "option1": "Thin",
+        "option2": "Expensive",
+        "option3": "Slow",
+        "option4": "Cool",
+        "question": "What is opposite of Thick ?"
+    },
+    {
+        "answer": "option1",
+        "option1": "Loose",
+        "option2": "Left",
+        "option3": "Light",
+        "option4": "Married",
+        "question": "What is opposite of Tight ?"
+    },
+    {
+        "answer": "option1",
+        "option1": "Cool",
+        "option2": "Loose",
+        "option3": "Near",
+        "option4": "Weak",
+        "question": "What is opposite of Warm ?"
+    },
+    {
+        "answer": "option1",
+        "option1": "Dry",
+        "option2": "Weak",
+        "option3": "Boring",
+        "option4": "Light",
+        "question": "What is opposite of Wet ?"
+    },
+    {
+        "answer": "option1",
+        "option1": "Narrow",
+        "option2": "Wrong",
+        "option3": "Few",
+        "option4": "Boring",
+        "question": "What is opposite of Wide ?"
+    },
+    {
+        "answer": "option1",
+        "option1": "Old",
+        "option2": "Shallow",
+        "option3": "Near",
+        "option4": "Bad",
+        "question": "What is opposite of Young ?"
+    }
+]
