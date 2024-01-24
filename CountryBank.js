@@ -2,7 +2,7 @@ CountryBank = [
     {
         "question": "What is capital of India ?",
         "option1": "Algiers",
-        "option2": "Delhi",
+        "option2": "La Paz",
         "option3": "New Delhi",
         "option4": "Washington D.C",
         "answer": "option3"
