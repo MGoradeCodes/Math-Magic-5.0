@@ -518,7 +518,7 @@ if(window.location.href != 'http://localhost/EduProject/addQuestion.php' && wind
 
 function userLogin(){
 	document.getElementById("questionArea").innerHTML = "<h1>Click on Your Name?</h1>";
-	users = ['Manthan','Maithili',"Aarya","Advait","Om","Rujula"];
+	users = ['Manthan','Maithili'];
 	
 	
 	users.forEach(listUsers);
